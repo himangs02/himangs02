@@ -8,8 +8,6 @@
 <img src="https://komarev.com/ghpvc/?username=himangs02&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
-
-<h1 align="center">Hi 👋, I'm Himangshu Kumar Das</h1>
 <h3 align="center">🚀 Full Stack Developer | AI & ML Enthusiast | Problem Solver</h3>
 
 <p align="center">
