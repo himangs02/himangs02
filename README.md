@@ -4,11 +4,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Himangshu+Kumar+Das;Full+Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=himangs02&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
 
-<h3 align="center">🚀 Full Stack Developer | AI & ML Enthusiast | Problem Solver</h3>
+
+<h3 align="center"> Full Stack Developer | AI & ML Enthusiast | Problem Solver</h3>
 
 <p align="center">
   Passionate about building scalable web applications, exploring AI solutions, and creating impactful software.
@@ -69,9 +67,9 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 🌐 Portfolio: https://your-portfolio.com
+- 📧 Email: himangshukumardas75695@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/himangshu-kumar-das-1349b6320/
+- 🌐 Portfolio: https://myportfolio-235356562.onrender.com/
 
 ---
 
