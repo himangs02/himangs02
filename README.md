@@ -170,12 +170,12 @@ A collection of practical builds and experiments across authentication, dashboar
 ## ✦ GitHub Performance
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=himangs02&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img height="170" src="https://github-readme-stats-gules-alpha-89.vercel.app/api?username=himangs02&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=himangs02&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himangs02&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://github-readme-stats-gules-alpha-89.vercel.app/api/top-langs/?username=himangs02&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
 ## ✦ Contribution Flow
