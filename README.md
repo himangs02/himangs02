@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Full%20Stack-7c3aed?style=for-the-badge" />
 </div>
 
-##  ** About Me **
+##  **About Me**
 
 <div align="center">
 
