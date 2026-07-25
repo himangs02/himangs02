@@ -178,14 +178,6 @@ A collection of practical builds and experiments across authentication, dashboar
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himangs02&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himangs02&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himangs02&theme=onedark&no-frame=true&row=1&column=7" />
-</p>
-
 ## ✦ Contribution Flow
 
 <p align="center">
