@@ -167,7 +167,18 @@ A collection of practical builds and experiments across authentication, dashboar
   <img src="https://img.shields.io/badge/-Open%20Source-0f172a?style=flat-square" />
 </p>
 
-## ✦ Snake Animation
+## ✦ GitHub Performance
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=himangs02&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=himangs02&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himangs02&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+## ✦ Contribution Flow
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/himangs02/himangs02/output/github-contribution-grid-snake.svg" alt="snake animation" />
