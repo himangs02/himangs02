@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Full%20Stack-7c3aed?style=for-the-badge" />
 </div>
 
-## ✦ About Me
+##  ** About Me **
 
 <div align="center">
 
@@ -62,7 +62,7 @@ I build polished, scalable, and user-focused digital products with a strong inte
 
 </div>
 
-## ✦ Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -115,7 +115,7 @@ A collection of practical builds and experiments across authentication, dashboar
 
 </div>
 
-## ✦ Tech Stack
+##  Tech Stack
 
 ### Frontend
 <p>
@@ -157,7 +157,7 @@ A collection of practical builds and experiments across authentication, dashboar
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge" />
 </p>
 
-## ✦ Currently Learning
+##  Currently Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Advanced%20Backend%20Architecture-0f172a?style=flat-square" />
@@ -167,7 +167,7 @@ A collection of practical builds and experiments across authentication, dashboar
   <img src="https://img.shields.io/badge/-Open%20Source-0f172a?style=flat-square" />
 </p>
 
-## ✦ GitHub Performance
+##  GitHub Performance
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-gules-alpha-89.vercel.app/api?username=himangs02&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
@@ -178,13 +178,13 @@ A collection of practical builds and experiments across authentication, dashboar
   <img src="https://github-readme-stats-gules-alpha-89.vercel.app/api/top-langs/?username=himangs02&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
-## ✦ Contribution Flow
+##  Contribution Flow
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/himangs02/himangs02/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-## ✦ Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/himangshu-kumar-das-1349b6320/">
